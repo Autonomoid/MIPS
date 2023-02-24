@@ -1,4 +1,4 @@
 MIPS
 ====
 
-Matlab Image Processory System
+Matlab Image Processing System
